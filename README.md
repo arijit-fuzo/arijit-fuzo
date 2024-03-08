@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447153"/>
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1890965994083710849/BF2222433FC2E54113E4C5EA19C6B6FE4DA22345/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
 
 ###
 
