@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right"  width="30%" src="https://steamuserimages-a.akamaihd.net/ugc/1890965994083710849/BF2222433FC2E54113E4C5EA19C6B6FE4DA22345/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
+<img align="right"  width="30%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhnZ2dhNXV6ejFnZDFxNzh5OHB3Znd6a3NuNHE3Y2hiOWpic3d5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 ###
 
