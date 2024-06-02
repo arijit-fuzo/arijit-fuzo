@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arijit Fouzdar and I'm a Software Engineer,tech enthusiast and a student</h2>
+<h2 align="left">Hey👋! It's Arijit this side, dive into my gallery ,sit back, relax & dive into the amazing tech jeourney</h2>
 
 ###
 
@@ -23,9 +23,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img  herf="https://www.instagram.com/arijit_fuzo/" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img herf="arijit.fouzdar@gmail.com" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img herf="https://www.linkedin.com/in/arijit-fouzdar-43b0a5203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
