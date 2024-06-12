@@ -1,4 +1,4 @@
-<h2 align="left">Hey👋! It's Arijit this side, dive into my gallery ,sit back, relax & dive into the amazing tech jeourney</h2>
+<h2 align="left">Hey👋! It's Arijit this side, explore my gallery ,sit back, relax & dive into the amazing tech jeourney</h2>
 
 ###
 
