@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <img  herf="https://www.instagram.com/arijit_fuzo/" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img herf="https://www.instagram.com/arijit_fuzo/" target="_blank" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img herf="arijit.fouzdar@gmail.com" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img herf="https://www.linkedin.com/in/arijit-fouzdar-43b0a5203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
